@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceRepo_Console", "In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceRepo_Tests", "InsuranceRepo_Tests\InsuranceRepo_Tests.csproj", "{FADCC344-7228-4794-BD2F-A6B8636012E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoCars", "KomodoCars\KomodoCars.csproj", "{78B23C84-2B21-4B18-ABF1-69736D38FF24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{FADCC344-7228-4794-BD2F-A6B8636012E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FADCC344-7228-4794-BD2F-A6B8636012E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FADCC344-7228-4794-BD2F-A6B8636012E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B23C84-2B21-4B18-ABF1-69736D38FF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B23C84-2B21-4B18-ABF1-69736D38FF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B23C84-2B21-4B18-ABF1-69736D38FF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B23C84-2B21-4B18-ABF1-69736D38FF24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
